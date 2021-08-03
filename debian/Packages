@@ -1,0 +1,68 @@
+Package: gitea
+Version: 1.14.5
+Architecture: amd64
+Bugs: https://github.com/go-gitea/gitea/issues
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Depends: git
+Recommends: sqlite3
+Filename: ./gitea_1.14.5_amd64.deb
+Size: 43226392
+MD5sum: f19bc791006c9a35bd0e7f05c9a9af2f
+SHA1: 6f8884e547fe51c412fb984fd76ca50420d88a28
+SHA256: fdbc2a356ceda51ae328ff3a017247716cb19ecd63d0bf7f2ed2d2481494b285
+Section: net
+Priority: optional
+Homepage: https://github.com/go-gitea/gitea/
+Description: Git with a cup of tea, painless self-hosted git service
+
+Package: gitea
+Version: 1.14.5
+Architecture: armhf
+Bugs: https://github.com/go-gitea/gitea/issues
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Depends: git
+Recommends: sqlite3
+Filename: ./gitea_1.14.5_armhf.deb
+Size: 38980424
+MD5sum: fd51b2f57f9a97e2178b0d8a3b258177
+SHA1: 11ffcf6df718b967c978adab5ae6b9425353f041
+SHA256: 200d7d0b5e7c2cc6f87a88e2ba297fb1f7f292ab7b4646ad94afe084379c5ea6
+Section: net
+Priority: optional
+Homepage: https://github.com/go-gitea/gitea/
+Description: Git with a cup of tea, painless self-hosted git service
+
+Package: gitea
+Version: 1.14.5
+Architecture: arm64
+Bugs: https://github.com/go-gitea/gitea/issues
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Depends: git
+Recommends: sqlite3
+Filename: ./gitea_1.14.5_arm64.deb
+Size: 40298272
+MD5sum: 4cfabdbe16e8c27bab0cac3c3334aeaf
+SHA1: f59ce311ccd579896fb446ff9cdf126298de87dd
+SHA256: 317a19ed91d22d5593bafbeae1ff7d5519a402dd8eec6dbdc242a0506f20b06d
+Section: net
+Priority: optional
+Homepage: https://github.com/go-gitea/gitea/
+Description: Git with a cup of tea, painless self-hosted git service
+
+Package: gitea
+Version: 1.14.5
+Architecture: i386
+Bugs: https://github.com/go-gitea/gitea/issues
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Depends: git
+Recommends: sqlite3
+Filename: ./gitea_1.14.5_i386.deb
+Size: 41984376
+MD5sum: ad5e62a401d19fa61edc942c5f4b69dc
+SHA1: 8bf58e82e947367d1650179ace9bae5e71ea51bc
+SHA256: b231ce4333dd37867ec917703797c9f09de828962b3dcb44a82eec3e379e1870
+Section: net
+Priority: optional
+Homepage: https://github.com/go-gitea/gitea/
+Description: Git with a cup of tea, painless self-hosted git service
+
