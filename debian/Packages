@@ -1,66 +1,66 @@
 Package: gitea
-Version: 1.14.5
+Version: 1.14.6
 Architecture: amd64
 Bugs: https://github.com/go-gitea/gitea/issues
 Maintainer: Ryan Fortner <ryankfortner@gmail.com>
 Depends: git
 Recommends: sqlite3
-Filename: ./gitea_1.14.5_amd64.deb
-Size: 43226392
-MD5sum: f19bc791006c9a35bd0e7f05c9a9af2f
-SHA1: 6f8884e547fe51c412fb984fd76ca50420d88a28
-SHA256: fdbc2a356ceda51ae328ff3a017247716cb19ecd63d0bf7f2ed2d2481494b285
+Filename: ./gitea_1.14.6_amd64.deb
+Size: 43231960
+MD5sum: d8de6f473b78961e2413b55db8166174
+SHA1: 0ea34e9b28372e172d21459f9998a73f857d776d
+SHA256: aced1744157de6bd3f0207b5a39dd2eb36051865a8af53f430489f4b5671b486
 Section: net
 Priority: optional
 Homepage: https://github.com/go-gitea/gitea/
 Description: Git with a cup of tea, painless self-hosted git service
 
 Package: gitea
-Version: 1.14.5
+Version: 1.14.6
 Architecture: armhf
 Bugs: https://github.com/go-gitea/gitea/issues
 Maintainer: Ryan Fortner <ryankfortner@gmail.com>
 Depends: git
 Recommends: sqlite3
-Filename: ./gitea_1.14.5_armhf.deb
-Size: 38980424
-MD5sum: fd51b2f57f9a97e2178b0d8a3b258177
-SHA1: 11ffcf6df718b967c978adab5ae6b9425353f041
-SHA256: 200d7d0b5e7c2cc6f87a88e2ba297fb1f7f292ab7b4646ad94afe084379c5ea6
+Filename: ./gitea_1.14.6_armhf.deb
+Size: 38991052
+MD5sum: 2afa50a20683e15a2875c3a8cf08d19d
+SHA1: 013c02e41a8acccc76dc8b64d12092de6fb1a00e
+SHA256: 4fe82e54d8b274aa4b36e2e368060fd556a8f2e0330f97757d20109611ec68b3
 Section: net
 Priority: optional
 Homepage: https://github.com/go-gitea/gitea/
 Description: Git with a cup of tea, painless self-hosted git service
 
 Package: gitea
-Version: 1.14.5
-Architecture: arm64
-Bugs: https://github.com/go-gitea/gitea/issues
-Maintainer: Ryan Fortner <ryankfortner@gmail.com>
-Depends: git
-Recommends: sqlite3
-Filename: ./gitea_1.14.5_arm64.deb
-Size: 40298272
-MD5sum: 4cfabdbe16e8c27bab0cac3c3334aeaf
-SHA1: f59ce311ccd579896fb446ff9cdf126298de87dd
-SHA256: 317a19ed91d22d5593bafbeae1ff7d5519a402dd8eec6dbdc242a0506f20b06d
-Section: net
-Priority: optional
-Homepage: https://github.com/go-gitea/gitea/
-Description: Git with a cup of tea, painless self-hosted git service
-
-Package: gitea
-Version: 1.14.5
+Version: 1.14.6
 Architecture: i386
 Bugs: https://github.com/go-gitea/gitea/issues
 Maintainer: Ryan Fortner <ryankfortner@gmail.com>
 Depends: git
 Recommends: sqlite3
-Filename: ./gitea_1.14.5_i386.deb
-Size: 41984376
-MD5sum: ad5e62a401d19fa61edc942c5f4b69dc
-SHA1: 8bf58e82e947367d1650179ace9bae5e71ea51bc
-SHA256: b231ce4333dd37867ec917703797c9f09de828962b3dcb44a82eec3e379e1870
+Filename: ./gitea_1.14.6_i386.deb
+Size: 41992236
+MD5sum: 008dc747de5064264bd55320b5e3db7a
+SHA1: e262e5a74d972f94f4a82a50f047636a52286368
+SHA256: 2270ff52840aa234897841e468339532d3292d36fd4cf88c9b1cdfd08aaade4f
+Section: net
+Priority: optional
+Homepage: https://github.com/go-gitea/gitea/
+Description: Git with a cup of tea, painless self-hosted git service
+
+Package: gitea
+Version: 1.14.6
+Architecture: arm64
+Bugs: https://github.com/go-gitea/gitea/issues
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Depends: git
+Recommends: sqlite3
+Filename: ./gitea_1.14.6_arm64.deb
+Size: 40300056
+MD5sum: 0ff200ef6e87119ed6f266056397334e
+SHA1: e74e8e3e5081b09ebf979fe7bfb4d73ef0d8a151
+SHA256: 538b029c7d12e03a09b9201804768093074181082fcd770fbb40c303afd764e1
 Section: net
 Priority: optional
 Homepage: https://github.com/go-gitea/gitea/
