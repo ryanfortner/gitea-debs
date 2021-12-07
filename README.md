@@ -1,5 +1,7 @@
 # Gitea Debian Repository
 
+### Repository is no longer supported: use https://raspbian-addons.org instead
+
 This is a simple Debian repository for the Gitea project, a self-hosted Git solution.
 
 ### Repository installation
